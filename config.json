@@ -1,0 +1,8 @@
+{
+	"PORT" : "3001",	
+ "HOST" : "http://localhost",
+"DB_HOST" : "sql4.freemysqlhosting.net",
+"PHPMYADMIN" : "sql4407744@ec2-52-8-112-233.us-west-1.compute.amazonaws.com",
+"DB_PORT" : "3306",
+"DB_USER" : "sql4407744"
+}
